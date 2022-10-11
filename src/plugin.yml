@@ -1,0 +1,9 @@
+name: DiamondLimit
+version: 0.1
+author: Roguire14
+main: fr.roguire.diamondlimit.DiamondLimit
+commands:
+  diamondlimit:
+    description: "Commande pour gêrer le plugin"
+    usage: /<command>
+    aliases: [dl]

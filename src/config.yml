@@ -1,0 +1,4 @@
+no-permission: "&4&lVous n'avez pas les permissions nécessaires"
+activation: "&aLe scénario DiamondLimit est activé"
+desactivation: "&cLe scénario DiamondLimit est désactivé"
+diamond-limit: 20
